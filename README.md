@@ -10,3 +10,7 @@ Spring makes programming Java quicker, easier, and safer for everybody. Springâ€
   5. Spring Beans
   6. Auto Wiring
   
+# Spring MVC (Model, View, Controller)
+![image](https://user-images.githubusercontent.com/50115378/184584819-e769ad2c-f9f8-44e2-a002-8230fb1ceded.png)
+
+  
